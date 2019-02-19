@@ -9,7 +9,7 @@ Have a look at the dataset. [link](https://github.com/rajatsharma369007/Life_exp
 ## Installation
 * Pandas  
 <code>conda install pandas</code>
-* Scikit-Learn
+* Scikit-Learn  
 <code>conda install -c anaconda scikit-learn</code>
 
 ## Issue/Bug
